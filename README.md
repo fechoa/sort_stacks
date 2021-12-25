@@ -27,7 +27,7 @@ The project had limitations on the number of stack operations (not on the number
    $ ./push_swap 5 4 3 2 1
    ```
 
-  In response, you will receive a list of operations for a complete sorting of the A stack:
+     In response, you will receive a list of operations for a complete sorting of the A stack:
   
         ```sh
         $ rra
