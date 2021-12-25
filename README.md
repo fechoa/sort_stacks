@@ -29,16 +29,16 @@ The project had limitations on the number of stack operations (not on the number
 
   In response, you will receive a list of operations for a complete sorting of the A stack:
   
-     ```sh
-     $ rra
-     $ pb
-     $ pb
-     $ sa
-     $ rra
-     $ pa
-     $ ra
-     $ pa
-     ```
+        ```sh
+        $ rra
+        $ pb
+        $ pb
+        $ sa
+        $ rra
+        $ pa
+        $ ra
+        $ pa
+        ```
     
 ## Vizualization
 
